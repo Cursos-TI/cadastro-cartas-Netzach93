@@ -101,7 +101,7 @@
             printf("* Densidade Populacional: %.2f hab/km². \n", densidade1);
             printf("* PIB per Capita: %.2f reais. \n", capita1);
 
-            printf("--------------------------------------\n");
+            printf("----------------------------------------\n");
             printf("*****  Carta número 2  *****\n");
             printf("* Estado: %c. \n", estado2);
             printf("* Código: %s. \n", codigo2);
